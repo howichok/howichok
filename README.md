@@ -1,45 +1,45 @@
-### hey, I'm howichok 👋
+## howichok
 
-Software developer based in the UK, currently finishing my T-Level in Digital Software Development and preparing for a BSc in Computer Science & Artificial Intelligence.
+Software developer based in the UK. Currently completing a T-Level in Digital Software Development and preparing for a BSc in Computer Science & Artificial Intelligence.
 
-I like building clean, responsive web applications with good UI/UX and solid architecture. Most of my recent work centers on the modern TypeScript ecosystem, Next.js, and relational databases.
-
----
-
-### 🛠 What I work with
-
-- **Languages:** TypeScript, JavaScript, Python, C++, HTML/CSS, SQL
-- **Frontend:** React, Next.js (App Router), Tailwind CSS, shadcn/ui, Framer Motion
-- **Backend & Data:** Node.js, PostgreSQL, Prisma, Drizzle ORM, Supabase, Cloudflare D1
-- **Tools & Workflow:** Git, GitHub, VS Code, Figma, macOS
+I build full-stack web applications with an emphasis on clean architecture, responsive interfaces, and modern tooling.
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - **[Prism](https://github.com/howichok/prism)**  
-  Full-stack community & company management platform built with Next.js App Router and PostgreSQL. Features Discord OAuth, role-based permissions, server actions, and a custom dashboard UI.  
-  `Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL` · `Auth.js` · `shadcn/ui`
+  Full-stack community and company management platform. Built with Next.js App Router, Prisma, PostgreSQL (Supabase), Discord OAuth, server actions, and shadcn/ui.  
+  `Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL` · `Auth.js`
 
 - **[djproject](https://github.com/howichok/djproject)**  
-  Full-stack edge application exploring modern server-side primitives and lightweight serverless databases.  
+  Full-stack edge application exploring lightweight serverless workflows and server-side primitives.  
   `Vinext` · `TypeScript` · `Cloudflare D1` · `Drizzle ORM` · `Node.js`
 
 - **[GTN (Global Transit Network)](https://github.com/howichok/GTNdesign)**  
-  Frontend interface and UI design system prototypes for network management.  
-  `HTML` · `CSS` · `JavaScript` · `UI/UX Design`
+  Frontend interface design and UI systems for network transit management.  
+  `HTML` · `CSS` · `JavaScript` · `UI Design`
 
 ---
 
-### 🔭 Currently
+### Stack
 
-- Wrapping up my T-Level coursework & practical web projects.
-- Deepening my foundations in algorithms, data structures, and mathematics for machine learning.
-- Experimenting with Python and introductory ML ahead of university.
+- **Languages:** TypeScript, JavaScript, Python, C++, SQL, HTML/CSS
+- **Frontend:** React, Next.js, Tailwind CSS, shadcn/ui, Framer Motion
+- **Backend & Databases:** Node.js, PostgreSQL, Prisma, Drizzle ORM, Supabase, Cloudflare D1
+- **Tools:** Git, GitHub, VS Code, macOS, Figma
 
 ---
 
-### 📬 Get in touch
+### Workflow & AI
 
-- **Email:** [howichok@gmail.com](mailto:howichok@gmail.com)
-- **GitHub:** [@howichok](https://github.com/howichok)
+I build with an AI-native workflow. I actively use LLMs and AI assistants for rapid prototyping, architecture exploration, and debugging—using AI as a force multiplier while keeping full control over system design, code quality, and UX.
+
+Beyond using AI tools to build software, my upcoming academic focus is the underlying mathematics, algorithms, and machine learning models that power them.
+
+---
+
+### Contact
+
+- Email: [howichok@gmail.com](mailto:howichok@gmail.com)
+- GitHub: [github.com/howichok](https://github.com/howichok)
